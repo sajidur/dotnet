@@ -1,7 +1,6 @@
 # .NET Open Source Developer Projects
 
 This community maintained list showcases .NET open source developer projects. It is intended to include projects that are useful for any aspect of the development process. For consumer projects, see the [.NET open source consumer projects list](dotnet-consumer-projects.md). PR a change into either list and it will be accepted (modulo duplicates). 
-
 Please sort projects alphabetically and provide a one-line description. GitHub/CodePlex (or other source) links are preferred, but feel free to also include marketing sites. Create new sections, as appropriate. 
 
 ## .NET Implementations
@@ -373,7 +372,9 @@ Please sort projects alphabetically and provide a one-line description. GitHub/C
  
 ## Project Templates
   * [ASP.NET MVC Boilerplate](https://github.com/ASP-NET-MVC-Boilerplate/Templates) - Professional ASP.NET MVC templates for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.
- 
+  
+## E-Commerce
+
 This list is just a starting point - also take a look at all the projects on [CodePlex](http://www.codeplex.com/) and on [GitHub Trending C#](https://github.com/trending?l=csharp).
 
 [@quozd](http://twitter.com/quozd "@quozd on Twitter") hosts an [Awesome .NET!](https://github.com/quozd/awesome-dotnet) list. Also worth checking out.
